@@ -1,0 +1,25 @@
+{
+  "name": "kanbanboard",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meetyourmaker330/kanbanboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meetyourmaker330/kanbanboard/issues"
+  },
+  "homepage": "https://github.com/Meetyourmaker330/kanbanboard#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "parcel": "^2.14.4"
+  }
+}
